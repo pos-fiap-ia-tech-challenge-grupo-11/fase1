@@ -1,5 +1,16 @@
 # Tech Challenge Grupo 11
+## Integrantes do Grupo 11
+Marx Engels Antunes Correia
+marx.correia@solutis.com.br
 
+Moacir Maciel Neto
+moacir.neto@solutis.com.br
+
+Rogério Monteiro Magalhães
+aerogerio@yahoo.com.br
+
+Kaliston Silvanio de Sousa
+kaliston.sousa@solutis.com.br
 
 
 ## Getting started
