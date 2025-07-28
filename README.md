@@ -13,11 +13,24 @@ Kaliston Silvanio de Sousa
 kaliston.sousa@solutis.com.br
 
 
-## Getting started
+## Getting started com  UV
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+O UV é um gerenciador de pacotes Python de alto desempenho, escrito em Rust, que visa substituir ferramentas como pip e pip-tools. Ele oferece instalação rápida de dependências, gerenciamento de ambientes virtuais e integração com ferramentas Python existentes, sendo projetado para otimizar o fluxo de trabalho do desenvolvedor. 
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Instale o UV no seu Python com o comando abaixo.
+
+```
+uv python install
+
+```
+
+Para rodar o projeto na linha de comando escreva.
+
+```
+uv run main.py
+
+```
+[Feature](https://docs.astral.sh/uv/getting-started/features/) ou [CLI](https://docs.astral.sh/uv/reference/cli/#uv)
 
 ## Add your files
 
