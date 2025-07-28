@@ -15,7 +15,7 @@ kaliston.sousa@solutis.com.br
 
 ## Getting started com  UV
 
-O UV é um gerenciador de pacotes Python de alto desempenho, escrito em Rust, que visa substituir ferramentas como pip e pip-tools. Ele oferece instalação rápida de dependências, gerenciamento de ambientes virtuais e integração com ferramentas Python existentes, sendo projetado para otimizar o fluxo de trabalho do desenvolvedor. 
+O UV Ã© um gerenciador de pacotes Python de alto desempenho, escrito em Rust, que visa substituir ferramentas como pip e pip-tools. Ele oferece instalaÃ§Ã£o rÃ¡pida de dependÃªncias, gerenciamento de ambientes virtuais e integraÃ§Ã£o com ferramentas Python existentes, sendo projetado para otimizar o fluxo de trabalho do desenvolvedor. 
 
 Instale o UV no seu Python com o comando abaixo.
 
@@ -30,6 +30,7 @@ Para rodar o projeto na linha de comando escreva.
 uv run main.py
 
 ```
+Para mais informaÃ§Ãµes consulte:
 [Feature](https://docs.astral.sh/uv/getting-started/features/) ou [CLI](https://docs.astral.sh/uv/reference/cli/#uv)
 
 ## Add your files
