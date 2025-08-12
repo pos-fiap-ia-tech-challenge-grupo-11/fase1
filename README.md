@@ -17,7 +17,7 @@ kaliston.sousa@solutis.com.br
 ``RM: 366377``
 
 
-## ?? Pré requisitos de execução no VSCode
+## Pré requisitos de execução no VSCode
 
 ### 1. Plugins do VSCode para execução de Jupiter Notebook
     - Jupyter
@@ -26,7 +26,7 @@ kaliston.sousa@solutis.com.br
 ```
 uv python install
 ```
-### 3. Instalação das depend�ncias
+### 3. Instalação das dependências
 ```
 uv sync
 ```
@@ -36,7 +36,7 @@ uv sync
 Certifique de selecionar o Kernel diagnosis
 ![alt text](image.png)
 
-## ?? Detalhes para execução do script
+## Detalhes para execução do script
 ### 1. Dataset utilizado
 Acesse o arquivo ``data/breast-cancer-wisconsin-data.csv``
 
