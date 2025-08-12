@@ -2,38 +2,43 @@
 ## Integrantes do Grupo 11
 Marx Engels Antunes Correia
 marx.correia@solutis.com.br
-``RM: RM366404``
+``RM: 366404``
 
 Moacir Maciel Neto
 moacir.neto@solutis.com.br
 ``RM: 366374``
 
-Rogério Monteiro MagalhÃ£es
+RogÃ©rio Monteiro MagalhÃ£es
 aerogerio@yahoo.com.br
-``RM: 366377``
+``RM: 366397``
 
 Kaliston Silvanio de Sousa
 kaliston.sousa@solutis.com.br
 ``RM: 366377``
 
 
-## ?? Pré requisito de execução no VSCode
+## ?? PrÃ© requisito de execuÃ§Ã£o no VSCode
 
-### 1. Instalação do gerenciador de dependências UV
+### 1. InstalaÃ§Ã£o do gerenciador de dependÃªncias UV
 ```
 uv python install
 ```
-### 2. Instalação das dependências
+### 2. InstalaÃ§Ã£o das dependï¿½ncias
 ```
 uv sync
 ```
-### 3. Seleção do Kernel
+### 3. SeleÃ§Ã£o do Kernel
 Certifique de selecionar o Kernel diagnosis
 ![alt text](image.png)
 
 
-### 4. Execução do script
-Acesse o arquivo ``notebook/techChallengeGp11.ipynb``
+### 4. Dataset utilizado
+Acesse o arquivo ``data/breast-cancer-wisconsin-data.csv``
+
+
+### 5. ExecuÃ§Ã£o do script
+Acesse e execute o arquivo ``notebook/techChallengeGrupo11.ipynb``
+
 
 
 
