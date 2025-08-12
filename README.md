@@ -1,4 +1,4 @@
-# Tech Challenge Grupo 11
+# Tech Challenge Fase 1 - Grupo 11
 ## Integrantes do Grupo 11
 Marx Engels Antunes Correia
 marx.correia@solutis.com.br
@@ -17,26 +17,31 @@ kaliston.sousa@solutis.com.br
 ``RM: 366377``
 
 
-## ?? Pré requisito de execução no VSCode
+## ?? Pré requisitos de execução no VSCode
 
-### 1. Instalação do gerenciador de dependências UV
+### 1. Plugins do VSCode para execução de Jupiter Notebook
+    - Jupyter
+
+### 2. Instalação do gerenciador de dependências UV
 ```
 uv python install
 ```
-### 2. Instalação das depend�ncias
+### 3. Instalação das depend�ncias
 ```
 uv sync
 ```
+
+
 ### 3. Seleção do Kernel
 Certifique de selecionar o Kernel diagnosis
 ![alt text](image.png)
 
-
-### 4. Dataset utilizado
+## ?? Detalhes para execução do script
+### 1. Dataset utilizado
 Acesse o arquivo ``data/breast-cancer-wisconsin-data.csv``
 
 
-### 5. Execução do script
+### 2. Execução do script
 Acesse e execute o arquivo ``notebook/techChallengeGrupo11.ipynb``
 
 
